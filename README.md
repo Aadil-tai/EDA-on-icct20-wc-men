@@ -2,7 +2,7 @@
 
 # ICC Men's T20 World Cup Data Analysis
 
-![ICC Men's T20 World Cup](t20_world_cup_image.jpg)
+![ICC Men's T20 World Cup](t20_world_cup_image.png)
 
 </div>
 
