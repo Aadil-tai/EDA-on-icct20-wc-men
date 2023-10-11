@@ -34,8 +34,7 @@ The **ICC Men's T20 World Cup Data Analysis** project aims to provide comprehens
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/icc-t20-world-cup-analysis.git
-
+   git clone https://github.com/Aadil-tai/EDA-on-icct20-wc-men.git
 2. Install the required libraries:
    
   ```pip install -r requirements.txt```
