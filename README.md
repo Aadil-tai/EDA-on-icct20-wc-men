@@ -1,18 +1,16 @@
 <div align="center">
   <h1>📆 Project Documentation 2022 - 2023 📆</h1>
   <h2>EDA on 4 teams in ICC Men's T20 World Cup</h2>
-
-
+  <img src="t20_world_cup_image.png" alt="ICC Men's T20 World Cup">
 </div>
 
 ---
+
 <div align="center">
-
-
   <h2>📌 1. Project Profile 📌</h2>
   <h3>1.1 Project Definition</h3>
 </div>
-<center>![ICC Men's T20 World Cup](t20_world_cup_image.png)</center>
+
 The ICC Men's T20 World Cup Analysis project aims to provide a comprehensive analysis of the T20 World Cup tournament data. The project leverages a dataset containing detailed information about matches, players, batting and bowling statistics, and team performances. By analyzing this dataset, we can gain valuable insights into the dynamics of T20 cricket and uncover trends, patterns, and performance indicators for both individual players and teams.
 
 The T20 World Cup is one of the most prestigious international cricket tournaments, featuring teams from around the globe competing in the shortest format of the game. With its fast-paced and high-scoring nature, T20 cricket has revolutionized the sport, creating new strategies and showcasing exceptional skills from players across various teams.
