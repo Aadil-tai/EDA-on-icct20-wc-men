@@ -6,8 +6,9 @@
 </div>
 
 ---
-![ICC Men's T20 World Cup](t20_world_cup_image.png)
 <div align="center">
+![ICC Men's T20 World Cup](t20_world_cup_image.png)
+
   <h2>📌 1. Project Profile 📌</h2>
   <h3>1.1 Project Definition</h3>
 </div>
