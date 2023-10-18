@@ -1,6 +1,8 @@
 <div align="center">
   <h1>📆 Project Documentation 2022 - 2023 📆</h1>
   <h2>EDA on 4 teams in ICC Men's T20 World Cup</h2>
+![ICC Men's T20 World Cup](t20_world_cup_image.png)
+
 </div>
 
 ---
